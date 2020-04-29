@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "superwars-complete"
+    }
+  },
+  "defaultProject": "superwars-complete",
+  "cli": {
+    "analytics": "1eb86477-6e54-4ae9-a5cd-405e61aafc89"
+  }
 }
